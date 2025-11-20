@@ -3,6 +3,7 @@
 
 # Python(캐시파일)
 src/__pycache__
+src/Test.py
 
 # config
 config/credientials.json
