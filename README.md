@@ -1,5 +1,6 @@
 # SalesforceDataCloudERD
 Data Cloud의 모든 사용중인 Data Model과 Relationship 추출 -> dbdiagram.io 형식에 맞게 출력
+<img width="462" height="760" alt="image" src="https://github.com/user-attachments/assets/35502273-ebf6-4832-9538-9198f3632e81" />
 
 2025.11.20
 - 현재 모든 DMO 추출 문제 없음.
