@@ -1,0 +1,6 @@
+{
+  "api_version": "v65.0",
+  "login_url": "https://login.salesforce.com",
+  "log_level": "INFO",
+  "output_format": "json"
+}

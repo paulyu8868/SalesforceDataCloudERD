@@ -1,0 +1,4 @@
+# 설치 목록(아래 커멘드로 설치)
+# pip install -r requirements.txt
+python-dotenv==1.0.0
+requests==2.31.0

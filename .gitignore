@@ -1,0 +1,8 @@
+# 계정정보
+.env
+
+# Python(캐시파일)
+src/__pycache__
+
+# config
+config/credientials.json
